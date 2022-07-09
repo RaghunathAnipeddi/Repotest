@@ -141,8 +141,8 @@ namespace ChemPoint.GP.APIServices.Controllers
             {
                 return BadRequest(ModelState);
             }
-
-            IdentityResult result = await UserManager.AddPasswordAsync(User.Identity.GetUserId(), model.NewPassword);
+            //account controler
+            IdentityResult result = await UserManager.AddPasswordAsync(User.Identity.GetUserId(), model.NewPassword);    
 
             if (!result.Succeeded)
             {
