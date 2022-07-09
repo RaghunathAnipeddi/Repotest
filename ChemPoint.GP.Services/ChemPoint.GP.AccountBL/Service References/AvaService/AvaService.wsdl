@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="AvaService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://cd01biztalk01/Chempoint.Avalara.Services/AvaService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://cd01biztalk01/Chempoint.Avalara.Services/AvaService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://cd01biztalk01/Chempoint.Avalara.Services/AvaService.svc?xsd=xsd2" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IAvaService_DownloadCustomerTaxDetails_InputMessage">
+    <wsdl:part name="parameters" element="tns:DownloadCustomerTaxDetails" />
+  </wsdl:message>
+  <wsdl:message name="IAvaService_DownloadCustomerTaxDetails_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DownloadCustomerTaxDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAvaService_ProcessFailedRecords_InputMessage">
+    <wsdl:part name="parameters" element="tns:ProcessFailedRecords" />
+  </wsdl:message>
+  <wsdl:message name="IAvaService_ProcessFailedRecords_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ProcessFailedRecordsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAvaService_PushCustomerIntoAvalara_InputMessage">
+    <wsdl:part name="parameters" element="tns:PushCustomerIntoAvalara" />
+  </wsdl:message>
+  <wsdl:message name="IAvaService_PushCustomerIntoAvalara_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PushCustomerIntoAvalaraResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAvaService_SendCertRequestToAvalara_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendCertRequestToAvalara" />
+  </wsdl:message>
+  <wsdl:message name="IAvaService_SendCertRequestToAvalara_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SendCertRequestToAvalaraResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IAvaService">
+    <wsdl:operation name="DownloadCustomerTaxDetails">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAvaService/DownloadCustomerTaxDetails" message="tns:IAvaService_DownloadCustomerTaxDetails_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAvaService/DownloadCustomerTaxDetailsResponse" message="tns:IAvaService_DownloadCustomerTaxDetails_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ProcessFailedRecords">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAvaService/ProcessFailedRecords" message="tns:IAvaService_ProcessFailedRecords_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAvaService/ProcessFailedRecordsResponse" message="tns:IAvaService_ProcessFailedRecords_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PushCustomerIntoAvalara">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAvaService/PushCustomerIntoAvalara" message="tns:IAvaService_PushCustomerIntoAvalara_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAvaService/PushCustomerIntoAvalaraResponse" message="tns:IAvaService_PushCustomerIntoAvalara_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SendCertRequestToAvalara">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAvaService/SendCertRequestToAvalara" message="tns:IAvaService_SendCertRequestToAvalara_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAvaService/SendCertRequestToAvalaraResponse" message="tns:IAvaService_SendCertRequestToAvalara_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IAvaService" type="tns:IAvaService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="DownloadCustomerTaxDetails">
+      <soap:operation soapAction="http://tempuri.org/IAvaService/DownloadCustomerTaxDetails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProcessFailedRecords">
+      <soap:operation soapAction="http://tempuri.org/IAvaService/ProcessFailedRecords" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PushCustomerIntoAvalara">
+      <soap:operation soapAction="http://tempuri.org/IAvaService/PushCustomerIntoAvalara" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendCertRequestToAvalara">
+      <soap:operation soapAction="http://tempuri.org/IAvaService/SendCertRequestToAvalara" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="AvaService">
+    <wsdl:port name="BasicHttpBinding_IAvaService" binding="tns:BasicHttpBinding_IAvaService">
+      <soap:address location="http://cd01biztalk01/Chempoint.Avalara.Services/AvaService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

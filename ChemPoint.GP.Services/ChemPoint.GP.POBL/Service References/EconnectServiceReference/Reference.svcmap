@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="460314e0-ee33-4709-95b9-ff45c0c479a4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://cs01biztalk01/Microsoft/Dynamics/GP/eConnect/mex" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="mex.xsd" MetadataType="Schema" ID="c4e77277-1183-4730-8fc3-681d4d06cd7d" SourceId="1" SourceUrl="http://localhost/Microsoft/Dynamics/GP/eConnect/mex?xsd=xsd1" />
+    <MetadataFile FileName="mex.wsdl" MetadataType="Wsdl" ID="c31cabf0-5516-481f-bf2f-aadbbe6cc01a" SourceId="1" SourceUrl="http://localhost/Microsoft/Dynamics/GP/eConnect/mex?wsdl=wsdl0" />
+    <MetadataFile FileName="mex1.xsd" MetadataType="Schema" ID="2b412e1d-4595-48a5-9c19-69f34c1404c9" SourceId="1" SourceUrl="http://localhost/Microsoft/Dynamics/GP/eConnect/mex?xsd=xsd2" />
+    <MetadataFile FileName="eConnect.wsdl" MetadataType="Wsdl" ID="fa2f72fe-af74-4b2b-8238-160d8c620041" SourceId="1" SourceUrl="http://cs01biztalk01/Microsoft/Dynamics/GP/eConnect/mex" />
+    <MetadataFile FileName="mex2.xsd" MetadataType="Schema" ID="b3ba9ad6-beab-48fc-9884-a7f07814e061" SourceId="1" SourceUrl="http://localhost/Microsoft/Dynamics/GP/eConnect/mex?xsd=xsd0" />
+    <MetadataFile FileName="eConnect1.wsdl" MetadataType="Wsdl" ID="8e1478b5-7532-4790-8d93-bf6c722b8808" SourceId="1" SourceUrl="http://localhost/Microsoft/Dynamics/GP/eConnect/mex?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

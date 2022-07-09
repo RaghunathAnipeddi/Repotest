@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:i0="http://schemas.microsoft.com/dynamics/gp/2010/01" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsp:Policy wsu:Id="eConnectServiceEndpoint_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <msb:BinaryEncoding xmlns:msb="http://schemas.microsoft.com/ws/06/2004/mspolicy/netbinary1" />
+        <sp:TransportBinding xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
+          <wsp:Policy>
+            <sp:TransportToken>
+              <wsp:Policy>
+                <msf:WindowsTransportSecurity xmlns:msf="http://schemas.microsoft.com/ws/2006/05/framing/policy">
+                  <msf:ProtectionLevel>EncryptAndSign</msf:ProtectionLevel>
+                </msf:WindowsTransportSecurity>
+              </wsp:Policy>
+            </sp:TransportToken>
+            <sp:AlgorithmSuite>
+              <wsp:Policy>
+                <sp:Basic256 />
+              </wsp:Policy>
+            </sp:AlgorithmSuite>
+            <sp:Layout>
+              <wsp:Policy>
+                <sp:Strict />
+              </wsp:Policy>
+            </sp:Layout>
+          </wsp:Policy>
+        </sp:TransportBinding>
+        <wsaw:UsingAddressing />
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsp:Policy wsu:Id="eConnectDocNumberEndPoint_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <msb:BinaryEncoding xmlns:msb="http://schemas.microsoft.com/ws/06/2004/mspolicy/netbinary1" />
+        <sp:TransportBinding xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
+          <wsp:Policy>
+            <sp:TransportToken>
+              <wsp:Policy>
+                <msf:WindowsTransportSecurity xmlns:msf="http://schemas.microsoft.com/ws/2006/05/framing/policy">
+                  <msf:ProtectionLevel>EncryptAndSign</msf:ProtectionLevel>
+                </msf:WindowsTransportSecurity>
+              </wsp:Policy>
+            </sp:TransportToken>
+            <sp:AlgorithmSuite>
+              <wsp:Policy>
+                <sp:Basic256 />
+              </wsp:Policy>
+            </sp:AlgorithmSuite>
+            <sp:Layout>
+              <wsp:Policy>
+                <sp:Strict />
+              </wsp:Policy>
+            </sp:Layout>
+          </wsp:Policy>
+        </sp:TransportBinding>
+        <wsaw:UsingAddressing />
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsp:Policy wsu:Id="eConnectRollBackDocuments_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <msb:BinaryEncoding xmlns:msb="http://schemas.microsoft.com/ws/06/2004/mspolicy/netbinary1" />
+        <sp:TransportBinding xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
+          <wsp:Policy>
+            <sp:TransportToken>
+              <wsp:Policy>
+                <msf:WindowsTransportSecurity xmlns:msf="http://schemas.microsoft.com/ws/2006/05/framing/policy">
+                  <msf:ProtectionLevel>EncryptAndSign</msf:ProtectionLevel>
+                </msf:WindowsTransportSecurity>
+              </wsp:Policy>
+            </sp:TransportToken>
+            <sp:AlgorithmSuite>
+              <wsp:Policy>
+                <sp:Basic256 />
+              </wsp:Policy>
+            </sp:AlgorithmSuite>
+            <sp:Layout>
+              <wsp:Policy>
+                <sp:Strict />
+              </wsp:Policy>
+            </sp:Layout>
+          </wsp:Policy>
+        </sp:TransportBinding>
+        <wsaw:UsingAddressing />
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsdl:import namespace="http://schemas.microsoft.com/dynamics/gp/2010/01" location="http://localhost/Microsoft/Dynamics/GP/eConnect/mex?wsdl" />
+  <wsdl:types />
+  <wsdl:binding name="eConnectServiceEndpoint" type="i0:eConnect">
+    <wsp:PolicyReference URI="#eConnectServiceEndpoint_policy" />
+    <soap12:binding transport="http://schemas.microsoft.com/soap/named-pipe" />
+    <wsdl:operation name="GetNextPOPReceiptNumber">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPOPReceiptNumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetNextGLJournalEntryNumber">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextGLJournalEntryNumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetNextPONumber">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPONumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetNextRMNumber">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextRMNumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetPMNextVoucherNumber">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetPMNextVoucherNumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetNextIVNumber">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextIVNumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetNextSOPNumber">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextSOPNumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="RollBackDocuments">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/IDocumentNumberRollback/RollBackDocuments" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="CreateEntity">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/CreateEntity" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="CreateTransactionEntity">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/CreateTransactionEntity" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateEntity">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/UpdateEntity" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteEntity">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/DeleteEntity" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateTransactionEntity">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/UpdateTransactionEntity" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteTransactionEntity">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/DeleteTransactionEntity" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetEntity">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/GetEntity" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="Dispose">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/Dispose" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="eConnectDocNumberEndPoint" type="i0:ITransactionRecordIds">
+    <wsp:PolicyReference URI="#eConnectDocNumberEndPoint_policy" />
+    <soap12:binding transport="http://schemas.microsoft.com/soap/named-pipe" />
+    <wsdl:operation name="GetNextPOPReceiptNumber">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPOPReceiptNumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetNextGLJournalEntryNumber">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextGLJournalEntryNumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetNextPONumber">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPONumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetNextRMNumber">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextRMNumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetPMNextVoucherNumber">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetPMNextVoucherNumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetNextIVNumber">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextIVNumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetNextSOPNumber">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextSOPNumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="eConnectRollBackDocuments" type="i0:IDocumentNumberRollback">
+    <wsp:PolicyReference URI="#eConnectRollBackDocuments_policy" />
+    <soap12:binding transport="http://schemas.microsoft.com/soap/named-pipe" />
+    <wsdl:operation name="RollBackDocuments">
+      <soap12:operation soapAction="http://schemas.microsoft.com/dynamics/gp/2010/01/IDocumentNumberRollback/RollBackDocuments" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="eConnectSqlFaultFault">
+        <soap12:fault use="literal" name="eConnectSqlFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="eConnectFaultFault">
+        <soap12:fault use="literal" name="eConnectFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+</wsdl:definitions>

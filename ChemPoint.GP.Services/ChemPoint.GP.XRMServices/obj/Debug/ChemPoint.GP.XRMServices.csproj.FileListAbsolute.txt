@@ -1,0 +1,84 @@
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.XRMServices.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.XRMServices.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.BusinessContracts.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.Gp.CPServiceAuditLogBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.Entities.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Chempoint.GP.Model.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\System.Net.Http.Formatting.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\System.Web.Http.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.DataContracts.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Chempoint.GP.Infrastructure.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.CPServiceAuditLog.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Common.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Newtonsoft.Json.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.BusinessContracts.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.Gp.CPServiceAuditLogBL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.Entities.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Chempoint.GP.Model.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\System.Web.Http.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.DataContracts.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Chempoint.GP.Infrastructure.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.CPServiceAuditLog.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\obj\Debug\ChemPoint.GP.XRMServices.csprojResolveAssemblyReference.cache
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\obj\Debug\ChemPoint.GP.XRMServices.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\obj\Debug\ChemPoint.GP.XRMServices.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\obj\Debug\ChemPoint.GP.XRMServices.csprojResolveAssemblyReference.cache
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.XRMServices.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.XRMServices.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.BusinessContracts.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.Gp.CPServiceAuditLogBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.Entities.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Chempoint.GP.Model.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\System.Net.Http.Formatting.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\System.Web.Http.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.DataContracts.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Chempoint.GP.Infrastructure.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.CPServiceAuditLog.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Common.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Newtonsoft.Json.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.BusinessContracts.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.Gp.CPServiceAuditLogBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.Entities.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Chempoint.GP.Model.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\System.Web.Http.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.DataContracts.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Chempoint.GP.Infrastructure.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.CPServiceAuditLog.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\obj\Debug\ChemPoint.GP.XRMServices.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\obj\Debug\ChemPoint.GP.XRMServices.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.XRMServices.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.XRMServices.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.BusinessContracts.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.Gp.CPServiceAuditLogBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.Entities.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Chempoint.GP.Model.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\System.Net.Http.Formatting.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\System.Web.Http.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.DataContracts.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Chempoint.GP.Infrastructure.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.CPServiceAuditLog.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Common.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.BusinessContracts.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.Gp.CPServiceAuditLogBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.Entities.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Chempoint.GP.Model.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\System.Web.Http.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.DataContracts.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\Chempoint.GP.Infrastructure.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\ChemPoint.GP.CPServiceAuditLog.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\obj\Debug\ChemPoint.GP.XRMServices.csprojResolveAssemblyReference.cache
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\obj\Debug\ChemPoint.GP.XRMServices.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\obj\Debug\ChemPoint.GP.XRMServices.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.XRMServices\bin\Debug\System.Net.Http.Formatting.xml

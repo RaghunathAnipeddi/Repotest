@@ -1,0 +1,84 @@
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.AccountBL.dll.config
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.AccountBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.AccountBL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.AccountDL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.BusinessContracts.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.DataContracts.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.Entities.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Chempoint.GP.Infrastructure.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Chempoint.GP.Model.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Common.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\System.Web.Http.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\System.Net.Http.Formatting.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Newtonsoft.Json.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.AccountDL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.BusinessContracts.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.DataContracts.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.Entities.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Chempoint.GP.Infrastructure.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Chempoint.GP.Model.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\System.Web.Http.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\obj\Debug\ChemPoint.GP.AccountBL.csprojResolveAssemblyReference.cache
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\obj\Debug\ChemPoint.GP.AccountBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\obj\Debug\ChemPoint.GP.AccountBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.AccountBL.dll.config
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.AccountBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.AccountBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.AccountDL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.BusinessContracts.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.DataContracts.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.Entities.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Chempoint.GP.Infrastructure.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Chempoint.GP.Model.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Common.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\System.Web.Http.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\System.Net.Http.Formatting.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Newtonsoft.Json.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.AccountDL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.BusinessContracts.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.DataContracts.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.Entities.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Chempoint.GP.Infrastructure.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Chempoint.GP.Model.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\System.Web.Http.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\obj\Debug\ChemPoint.GP.AccountBL.csprojResolveAssemblyReference.cache
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\obj\Debug\ChemPoint.GP.AccountBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\obj\Debug\ChemPoint.GP.AccountBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.AccountBL.dll.config
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.AccountBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.AccountBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.AccountDL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.BusinessContracts.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.DataContracts.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.Entities.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Chempoint.GP.Infrastructure.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Chempoint.GP.Model.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Common.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Microsoft.Dynamics.GP.eConnect.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\System.Web.Http.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\System.Net.Http.Formatting.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Newtonsoft.Json.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.AccountDL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.BusinessContracts.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.DataContracts.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\ChemPoint.GP.Entities.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Chempoint.GP.Infrastructure.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\Chempoint.GP.Model.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\bin\Debug\System.Web.Http.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\obj\Debug\ChemPoint.GP.AccountBL.csprojResolveAssemblyReference.cache
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\obj\Debug\ChemPoint.GP.AccountBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.AccountBL\obj\Debug\ChemPoint.GP.AccountBL.pdb

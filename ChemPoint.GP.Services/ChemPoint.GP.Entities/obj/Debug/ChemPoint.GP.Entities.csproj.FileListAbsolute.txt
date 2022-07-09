@@ -1,0 +1,13 @@
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.Entities\bin\Debug\ChemPoint.GP.Entities.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.Entities\bin\Debug\ChemPoint.GP.Entities.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.Entities\obj\Debug\ChemPoint.GP.Entities.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.Entities\obj\Debug\ChemPoint.GP.Entities.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.Entities\bin\Debug\ChemPoint.GP.Entities.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.Entities\bin\Debug\ChemPoint.GP.Entities.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.Entities\obj\Debug\ChemPoint.GP.Entities.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.Entities\obj\Debug\ChemPoint.GP.Entities.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.Entities\bin\Debug\ChemPoint.GP.Entities.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.Entities\bin\Debug\ChemPoint.GP.Entities.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.Entities\obj\Debug\ChemPoint.GP.Entities.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.Entities\obj\Debug\ChemPoint.GP.Entities.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.Entities\obj\Debug\ChemPoint.GP.Entities.csprojResolveAssemblyReference.cache

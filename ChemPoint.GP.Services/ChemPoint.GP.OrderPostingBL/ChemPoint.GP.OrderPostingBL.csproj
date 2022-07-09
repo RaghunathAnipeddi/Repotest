@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F3FAFDE8-CB8A-45B7-AB21-DA4BE52D4659}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ChemPoint.GP.OrderPostingBL</RootNamespace>
+    <AssemblyName>ChemPoint.GP.OrderPostingBL</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BatchValidateBL.cs" />
+    <Compile Include="CommonFactory\PostProcessFactory.cs" />
+    <Compile Include="LockPostingBatch.cs" />
+    <Compile Include="ProcessCadTaxExemptions.cs" />
+    <Compile Include="ProcessCanadianTaxIssuesFix.cs" />
+    <Compile Include="ProcessCorrectDropships.cs" />
+    <Compile Include="ProcessCreditCards.cs" />
+    <Compile Include="ProcessCurrencyIssues.cs" />
+    <Compile Include="ProcessDropshipIssues.cs" />
+    <Compile Include="ProcessFailedPrePaymentIssue.cs" />
+    <Compile Include="ProcessLinkPaymentIssues.cs" />
+    <Compile Include="ProcessServiceSkuIssues.cs" />
+    <Compile Include="ProcessDistributionIssues.cs" />
+    <Compile Include="ProcessInterCompanyOrders.cs" />
+    <Compile Include="ProcessMissingShipViaIssues.cs" />
+    <Compile Include="ProcessPostTransactions.cs" />
+    <Compile Include="ProcessRemoveLockedUsers.cs" />
+    <Compile Include="ProcessSSRSReport.cs" />
+    <Compile Include="ProcessVATIssues.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\ReportServiceReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="UnlockPostingBatch.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChemPoint.GP.BusinessContracts\ChemPoint.GP.BusinessContracts.csproj">
+      <Project>{2796a571-5fbf-4334-bd94-30487208440e}</Project>
+      <Name>ChemPoint.GP.BusinessContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ChemPoint.GP.DataContracts\ChemPoint.GP.DataContracts.csproj">
+      <Project>{69d1d1ac-6a78-4635-ab33-a9d92c51bfe6}</Project>
+      <Name>ChemPoint.GP.DataContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ChemPoint.GP.Email\ChemPoint.GP.Email.csproj">
+      <Project>{7c512de2-ab28-4d56-b904-ca6d4bf75ff0}</Project>
+      <Name>ChemPoint.GP.Email</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ChemPoint.GP.Entities\ChemPoint.GP.Entities.csproj">
+      <Project>{4cdd1441-bf38-44b6-b889-46746b9dff26}</Project>
+      <Name>ChemPoint.GP.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Chempoint.GP.Infrastructure\Chempoint.GP.Infrastructure.csproj">
+      <Project>{398ec9c4-077a-4f1a-87fc-bb3639006a78}</Project>
+      <Name>Chempoint.GP.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Chempoint.GP.Model\Chempoint.GP.Model.csproj">
+      <Project>{5c2d1212-df15-4521-9ac0-4ae9a75ae09c}</Project>
+      <Name>Chempoint.GP.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ChemPoint.GP.OrderPostingDL\ChemPoint.GP.OrderPostingDL.csproj">
+      <Project>{0c60e1c4-3623-4d80-b12a-f720ce8da942}</Project>
+      <Name>ChemPoint.GP.OrderPostingDL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Service References\ReportServiceReference\ReportService.wsdl" />
+    <None Include="Service References\ReportServiceReference\ReportService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ReportServiceReference\ReportService1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\ReportServiceReference\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ReportServiceReference\ReportService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ReportServiceReference\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ReportServiceReference\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ReportServiceReference\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="crmServiceConfigurationURL" xml:space="preserve">
+    <value />
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Field_Delete" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Field_Delete.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Field_Edit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Field_Edit.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Field_Expansion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Field_Expansion.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Field_Lookup" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Field_Lookup.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Field_MapPoint" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Field_MapPoint.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Field_NoteAbsent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Field_NoteAbsent.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Field_NotePresent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Field_NotePresent.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GP_LICENCE_COMPANY" xml:space="preserve">
+    <value>Fabricam</value>
+  </data>
+  <data name="GP_LICENCE_DBNAME_STR" xml:space="preserve">
+    <value>DATABASE=</value>
+  </data>
+  <data name="GP_LICENCE_KEY" xml:space="preserve">
+    <value>&lt;i52C5VV289487ALZY|11^276'275q712=85k~</value>
+  </data>
+  <data name="HelpImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HelpImage.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="STR_BELGIUMBKORD" xml:space="preserve">
+    <value>BELGIUM BKORD</value>
+  </data>
+  <data name="STR_BELGIUMINV" xml:space="preserve">
+    <value>BELGIUM INV</value>
+  </data>
+  <data name="STR_BELGIUMORD" xml:space="preserve">
+    <value>BELGIUM ORD</value>
+  </data>
+  <data name="STR_BillToAddressID" xml:space="preserve">
+    <value>Billiing</value>
+  </data>
+  <data name="STR_CarrierInstructionID" xml:space="preserve">
+    <value>CarrierInstructionID</value>
+  </data>
+  <data name="STR_CCBE" xml:space="preserve">
+    <value>BE</value>
+  </data>
+  <data name="STR_CCES" xml:space="preserve">
+    <value>ES</value>
+  </data>
+  <data name="STR_CCGB" xml:space="preserve">
+    <value>GB</value>
+  </data>
+  <data name="STR_CCIT" xml:space="preserve">
+    <value>IT</value>
+  </data>
+  <data name="STR_CCNL" xml:space="preserve">
+    <value>NL</value>
+  </data>
+  <data name="STR_CHMPT" xml:space="preserve">
+    <value>CHMPT</value>
+  </data>
+  <data name="STR_CountryNetherlands" xml:space="preserve">
+    <value>NETHERLANDS</value>
+  </data>
+  <data name="STR_CountryNL" xml:space="preserve">
+    <value>NL</value>
+  </data>
+  <data name="STR_CountrySpain" xml:space="preserve">
+    <value>Spain</value>
+  </data>
+  <data name="STR_CountryTheNetherlands" xml:space="preserve">
+    <value>THE NETHERLANDS</value>
+  </data>
+  <data name="STR_CountyBE" xml:space="preserve">
+    <value>BE</value>
+  </data>
+  <data name="STR_CountyBelgium" xml:space="preserve">
+    <value>Belgium</value>
+  </data>
+  <data name="STR_CountyES" xml:space="preserve">
+    <value>ES</value>
+  </data>
+  <data name="STR_CountyGB" xml:space="preserve">
+    <value>GB</value>
+  </data>
+  <data name="STR_CountyIT" xml:space="preserve">
+    <value>IT</value>
+  </data>
+  <data name="STR_CountyItaly" xml:space="preserve">
+    <value>Italy</value>
+  </data>
+  <data name="STR_CountyUK" xml:space="preserve">
+    <value>United Kingdom</value>
+  </data>
+  <data name="STR_ESBKORD" xml:space="preserve">
+    <value>SPAIN BKORD</value>
+  </data>
+  <data name="STR_ESINV" xml:space="preserve">
+    <value>SPAIN INV</value>
+  </data>
+  <data name="STR_ESORD" xml:space="preserve">
+    <value>SPAIN ORD</value>
+  </data>
+  <data name="STR_FinalAddressID" xml:space="preserve">
+    <value>FinalDestination</value>
+  </data>
+  <data name="STR_FinalAddressID1" xml:space="preserve">
+    <value>FinalDestination</value>
+  </data>
+  <data name="STR_GBBKORD" xml:space="preserve">
+    <value>GB BKORD</value>
+  </data>
+  <data name="STR_GBINV" xml:space="preserve">
+    <value>GB INV</value>
+  </data>
+  <data name="STR_GBORD" xml:space="preserve">
+    <value>GB ORD</value>
+  </data>
+  <data name="STR_ITALYBKORD" xml:space="preserve">
+    <value>ITALY BACKORD</value>
+  </data>
+  <data name="STR_ITALYINV" xml:space="preserve">
+    <value>ITALY INV</value>
+  </data>
+  <data name="STR_ITALYORD" xml:space="preserve">
+    <value>ITALY ORD</value>
+  </data>
+  <data name="STR_ITALY_LOC_CODE" xml:space="preserve">
+    <value>390664</value>
+  </data>
+  <data name="STR_MESSAGE_TITLE" xml:space="preserve">
+    <value>Microsoft Dynamics GP</value>
+  </data>
+  <data name="STR_MESSAGE_TITLE1" xml:space="preserve">
+    <value>Microsoft Dynamics GP</value>
+  </data>
+  <data name="STR_NLBKORD" xml:space="preserve">
+    <value>NL BKORD</value>
+  </data>
+  <data name="STR_NLINV" xml:space="preserve">
+    <value>NETHERLANDS INV</value>
+  </data>
+  <data name="STR_NLORD" xml:space="preserve">
+    <value>NETHERLANDS ORD</value>
+  </data>
+  <data name="STR_SalesCustomerDetailForm" xml:space="preserve">
+    <value>SalesCustomerDetailForm</value>
+  </data>
+  <data name="STR_ShipToAddressID" xml:space="preserve">
+    <value>Shipping</value>
+  </data>
+  <data name="STR_SopEntryForm" xml:space="preserve">
+    <value>SopEntry</value>
+  </data>
+  <data name="STR_SopInquiryForm" xml:space="preserve">
+    <value>SopInquiry</value>
+  </data>
+  <data name="STR_SopItemDetailForm" xml:space="preserve">
+    <value>SalesItemDetailEntry</value>
+  </data>
+  <data name="STR_SopItemInquiryForm" xml:space="preserve">
+    <value>Sales Item Inquiry</value>
+  </data>
+  <data name="STR_SopItemProductInfo" xml:space="preserve">
+    <value>Product</value>
+  </data>
+  <data name="STR_SopItemQuoteInfo" xml:space="preserve">
+    <value>Quote</value>
+  </data>
+  <data name="STR_SopItemShipmentInfo" xml:space="preserve">
+    <value>Shipment</value>
+  </data>
+  <data name="STR_Source" xml:space="preserve">
+    <value>GP</value>
+  </data>
+  <data name="STR_TaxRegNo" xml:space="preserve">
+    <value>STR_TaxRegNo</value>
+  </data>
+  <data name="STR_Voided" xml:space="preserve">
+    <value>void</value>
+  </data>
+  <data name="STR_WarehouseInstructionID" xml:space="preserve">
+    <value>WarehouseInstructionID</value>
+  </data>
+  <data name="Toolbar_Cancel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toolbar_Cancel.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Toolbar_Clear" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toolbar_Clear.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Toolbar_Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toolbar_Copy.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Toolbar_Delete" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toolbar_Delete.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Toolbar_DeleteAll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toolbar_DeleteAll.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Toolbar_New" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toolbar_New.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Toolbar_Open" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toolbar_Open.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Toolbar_Post" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toolbar_Post.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Toolbar_Print" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toolbar_Print.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Toolbar_Redisplay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toolbar_Redisplay.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Toolbar_Save" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toolbar_Save.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Toolbar_Void" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toolbar_Void.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VCR_First" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VCR_First.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VCR_Last" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VCR_Last.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VCR_Next" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VCR_Next.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VCR_Previous" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VCR_Previous.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Window_NoteAbsent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Window_NoteAbsent.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Window_NotePresent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Window_NotePresent.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SQL_LOGIN_AUDITOR_PWD" xml:space="preserve">
+    <value>comservice</value>
+  </data>
+  <data name="SQL_LOGIN_AUDITOR_USER" xml:space="preserve">
+    <value>comservice</value>
+  </data>
+  <data name="SQL_LOGIN_VOID_PWD" xml:space="preserve">
+    <value>gpservice</value>
+  </data>
+  <data name="STR_DATE" xml:space="preserve">
+    <value>1900/01/01</value>
+  </data>
+  <data name="STR_MESSAGE_XRM_BILL_ADDRESS" xml:space="preserve">
+    <value>Please, select correct Bill To Address from sales customer detail entry window</value>
+  </data>
+  <data name="STR_MESSAGE_XRM_SHIP_ADDRESS" xml:space="preserve">
+    <value>Please, select correct Ship To Address from sales customer detail entry window</value>
+  </data>
+  <data name="STR_SopCustomerDetailInquiryForm" xml:space="preserve">
+    <value>SopCustomerDetailInquiryForm</value>
+  </data>
+  <data name="STR_CPEUR" xml:space="preserve">
+    <value>CPEUR</value>
+  </data>
+  <data name="STR_CURRENCYISSUES" xml:space="preserve">
+    <value>Currency Issues</value>
+  </data>
+  <data name="STR_FIXED_DROPSHIP" xml:space="preserve">
+    <value>DropShip RecFixed=</value>
+  </data>
+  <data name="STR_GENERATED" xml:space="preserve">
+    <value>Generated -</value>
+  </data>
+  <data name="STR_MOVED_MISSING_SHIPVIA" xml:space="preserve">
+    <value>,ShipVia Missing RecMoved=</value>
+  </data>
+  <data name="STR_RECORDS_MOVED" xml:space="preserve">
+    <value>Records moved =</value>
+  </data>
+  <data name="STR_VATISSUES" xml:space="preserve">
+    <value>VAT Issues</value>
+  </data>
+  <data name="STR_VIEW" xml:space="preserve">
+    <value>View</value>
+  </data>
+  <data name="SHIPMTHD_LOGISTICS" xml:space="preserve">
+    <value>LOGISTICS</value>
+  </data>
+  <data name="UOFM_BULK" xml:space="preserve">
+    <value>BULK</value>
+  </data>
+  <data name="STR_InternalInstructionID" xml:space="preserve">
+    <value>InternalInstructionID</value>
+  </data>
+  <data name="STR_TaxScheduleID" xml:space="preserve">
+    <value>TaxScheduleID</value>
+  </data>
+  <data name="STR_Moved_AccountNumberIssue" xml:space="preserve">
+    <value>AccountNo moved=</value>
+  </data>
+  <data name="STR_Moved_DocumentAmountIssue" xml:space="preserve">
+    <value>DocAmt moved=</value>
+  </data>
+  <data name="STR_Moved_DropshipIssue" xml:space="preserve">
+    <value>UnitCost moved=</value>
+  </data>
+  <data name="STR_DynamicsGP" xml:space="preserve">
+    <value>Microsoft Dynamics GP</value>
+  </data>
+</root>

@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A2DC5F61-421D-443C-B968-2E3A0875D546}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Chempoint.GP.RM</RootNamespace>
+    <AssemblyName>Chempoint.GP.RM</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Application.ChemPointSalesExt, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Common EnterPriseLibrary\Application.ChemPointSalesExt.dll</HintPath>
+    </Reference>
+    <Reference Include="Application.Dynamics, Version=16.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\GP 2016 Upgraded Dll\Application.Dynamics.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Dexterity.Bridge, Version=16.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\GP 2016 Upgraded Dll\Microsoft.Dexterity.Bridge.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Dexterity.Shell, Version=16.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\GP 2016 Upgraded Dll\Microsoft.Dexterity.Shell.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Formatting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Common EnterPriseLibrary\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GpAddIn.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar_Print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar_Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar_New.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Window_NotePresent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar_Void.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar_Redisplay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar_Post.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar_Open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar_DeleteAll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar_Clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Field_NotePresent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Field_NoteAbsent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Field_Lookup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Field_Expansion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Field_Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Field_Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Field_MapPoint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Window_NoteAbsent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VCR_Previous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VCR_Next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VCR_Last.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VCR_First.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar_Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar_Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar_Cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HelpImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChemPoint.GP.Entities\ChemPoint.GP.Entities.csproj">
+      <Project>{4cdd1441-bf38-44b6-b889-46746b9dff26}</Project>
+      <Name>ChemPoint.GP.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Chempoint.GP.Infrastructure\Chempoint.GP.Infrastructure.csproj">
+      <Project>{398ec9c4-077a-4f1a-87fc-bb3639006a78}</Project>
+      <Name>Chempoint.GP.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Chempoint.GP.Model\Chempoint.GP.Model.csproj">
+      <Project>{5c2d1212-df15-4521-9ac0-4ae9a75ae09c}</Project>
+      <Name>Chempoint.GP.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

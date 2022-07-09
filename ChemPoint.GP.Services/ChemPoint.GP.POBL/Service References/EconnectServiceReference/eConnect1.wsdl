@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://schemas.microsoft.com/dynamics/gp/2010/01" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:i0="http://tempuri.org/" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="eConnect" targetNamespace="http://schemas.microsoft.com/dynamics/gp/2010/01" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:import namespace="http://tempuri.org/" location="http://localhost/Microsoft/Dynamics/GP/eConnect/mex?wsdl=wsdl0" />
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://schemas.microsoft.com/dynamics/gp/2010/01/Imports">
+      <xsd:import schemaLocation="http://localhost/Microsoft/Dynamics/GP/eConnect/mex?xsd=xsd0" namespace="http://schemas.microsoft.com/dynamics/gp/2010/01" />
+      <xsd:import schemaLocation="http://localhost/Microsoft/Dynamics/GP/eConnect/mex?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" />
+      <xsd:import schemaLocation="http://localhost/Microsoft/Dynamics/GP/eConnect/mex?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="eConnect_GetNextPOPReceiptNumber_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetNextPOPReceiptNumber" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextPOPReceiptNumber_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetNextPOPReceiptNumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextPOPReceiptNumber_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q1="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q1:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextPOPReceiptNumber_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q2="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q2:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextGLJournalEntryNumber_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetNextGLJournalEntryNumber" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextGLJournalEntryNumber_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetNextGLJournalEntryNumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextGLJournalEntryNumber_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q3="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q3:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextGLJournalEntryNumber_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q4="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q4:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextPONumber_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetNextPONumber" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextPONumber_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetNextPONumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextPONumber_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q5="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q5:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextPONumber_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q6="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q6:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextRMNumber_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetNextRMNumber" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextRMNumber_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetNextRMNumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextRMNumber_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q7="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q7:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextRMNumber_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q8="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q8:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetPMNextVoucherNumber_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPMNextVoucherNumber" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetPMNextVoucherNumber_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPMNextVoucherNumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetPMNextVoucherNumber_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q9="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q9:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetPMNextVoucherNumber_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q10="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q10:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextIVNumber_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetNextIVNumber" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextIVNumber_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetNextIVNumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextIVNumber_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q11="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q11:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextIVNumber_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q12="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q12:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextSOPNumber_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetNextSOPNumber" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextSOPNumber_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetNextSOPNumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextSOPNumber_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q13="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q13:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetNextSOPNumber_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q14="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q14:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_RollBackDocuments_InputMessage">
+    <wsdl:part name="parameters" element="tns:RollBackDocuments" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_RollBackDocuments_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RollBackDocumentsResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_RollBackDocuments_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q15="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q15:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_RollBackDocuments_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q16="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q16:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_CreateEntity_InputMessage">
+    <wsdl:part name="parameters" element="tns:CreateEntity" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_CreateEntity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CreateEntityResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_CreateEntity_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q17="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q17:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_CreateEntity_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q18="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q18:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_CreateTransactionEntity_InputMessage">
+    <wsdl:part name="parameters" element="tns:CreateTransactionEntity" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_CreateTransactionEntity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CreateTransactionEntityResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_CreateTransactionEntity_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q19="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q19:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_CreateTransactionEntity_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q20="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q20:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_UpdateEntity_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateEntity" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_UpdateEntity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateEntityResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_UpdateEntity_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q21="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q21:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_UpdateEntity_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q22="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q22:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_DeleteEntity_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteEntity" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_DeleteEntity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteEntityResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_DeleteEntity_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q23="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q23:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_DeleteEntity_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q24="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q24:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_UpdateTransactionEntity_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateTransactionEntity" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_UpdateTransactionEntity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateTransactionEntityResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_UpdateTransactionEntity_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q25="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q25:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_UpdateTransactionEntity_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q26="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q26:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_DeleteTransactionEntity_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteTransactionEntity" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_DeleteTransactionEntity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteTransactionEntityResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_DeleteTransactionEntity_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q27="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q27:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_DeleteTransactionEntity_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q28="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q28:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetEntity_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEntity" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetEntity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEntityResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetEntity_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q29="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q29:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_GetEntity_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q30="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q30:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_Dispose_InputMessage">
+    <wsdl:part name="parameters" element="tns:Dispose" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_Dispose_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DisposeResponse" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_Dispose_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q31="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q31:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="eConnect_Dispose_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q32="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q32:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="ITransactionRecordIds_GetNextPOPReceiptNumber_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q33="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q33:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="ITransactionRecordIds_GetNextPOPReceiptNumber_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q34="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q34:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="ITransactionRecordIds_GetNextGLJournalEntryNumber_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q35="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q35:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="ITransactionRecordIds_GetNextGLJournalEntryNumber_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q36="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q36:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="ITransactionRecordIds_GetNextPONumber_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q37="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q37:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="ITransactionRecordIds_GetNextPONumber_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q38="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q38:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="ITransactionRecordIds_GetNextRMNumber_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q39="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q39:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="ITransactionRecordIds_GetNextRMNumber_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q40="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q40:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="ITransactionRecordIds_GetPMNextVoucherNumber_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q41="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q41:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="ITransactionRecordIds_GetPMNextVoucherNumber_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q42="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q42:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="ITransactionRecordIds_GetNextIVNumber_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q43="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q43:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="ITransactionRecordIds_GetNextIVNumber_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q44="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q44:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="ITransactionRecordIds_GetNextSOPNumber_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q45="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q45:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="ITransactionRecordIds_GetNextSOPNumber_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q46="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q46:eConnectFault" />
+  </wsdl:message>
+  <wsdl:message name="IDocumentNumberRollback_RollBackDocuments_eConnectSqlFaultFault_FaultMessage">
+    <wsdl:part xmlns:q47="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q47:eConnectSqlFault" />
+  </wsdl:message>
+  <wsdl:message name="IDocumentNumberRollback_RollBackDocuments_eConnectFaultFault_FaultMessage">
+    <wsdl:part xmlns:q48="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.GP.eConnect" name="detail" element="q48:eConnectFault" />
+  </wsdl:message>
+  <wsdl:portType name="eConnect">
+    <wsdl:operation name="GetNextPOPReceiptNumber">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPOPReceiptNumber" message="tns:eConnect_GetNextPOPReceiptNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPOPReceiptNumberResponse" message="tns:eConnect_GetNextPOPReceiptNumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPOPReceiptNumbereConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_GetNextPOPReceiptNumber_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPOPReceiptNumbereConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_GetNextPOPReceiptNumber_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNextGLJournalEntryNumber">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextGLJournalEntryNumber" message="tns:eConnect_GetNextGLJournalEntryNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextGLJournalEntryNumberResponse" message="tns:eConnect_GetNextGLJournalEntryNumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextGLJournalEntryNumbereConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_GetNextGLJournalEntryNumber_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextGLJournalEntryNumbereConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_GetNextGLJournalEntryNumber_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNextPONumber">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPONumber" message="tns:eConnect_GetNextPONumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPONumberResponse" message="tns:eConnect_GetNextPONumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPONumbereConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_GetNextPONumber_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPONumbereConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_GetNextPONumber_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNextRMNumber">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextRMNumber" message="tns:eConnect_GetNextRMNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextRMNumberResponse" message="tns:eConnect_GetNextRMNumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextRMNumbereConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_GetNextRMNumber_eConnectFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextRMNumbereConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_GetNextRMNumber_eConnectSqlFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPMNextVoucherNumber">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetPMNextVoucherNumber" message="tns:eConnect_GetPMNextVoucherNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetPMNextVoucherNumberResponse" message="tns:eConnect_GetPMNextVoucherNumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetPMNextVoucherNumbereConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_GetPMNextVoucherNumber_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetPMNextVoucherNumbereConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_GetPMNextVoucherNumber_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNextIVNumber">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextIVNumber" message="tns:eConnect_GetNextIVNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextIVNumberResponse" message="tns:eConnect_GetNextIVNumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextIVNumbereConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_GetNextIVNumber_eConnectFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextIVNumbereConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_GetNextIVNumber_eConnectSqlFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNextSOPNumber">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextSOPNumber" message="tns:eConnect_GetNextSOPNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextSOPNumberResponse" message="tns:eConnect_GetNextSOPNumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextSOPNumbereConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_GetNextSOPNumber_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextSOPNumbereConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_GetNextSOPNumber_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RollBackDocuments">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/IDocumentNumberRollback/RollBackDocuments" message="tns:eConnect_RollBackDocuments_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/IDocumentNumberRollback/RollBackDocumentsResponse" message="tns:eConnect_RollBackDocuments_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/IDocumentNumberRollback/RollBackDocumentseConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_RollBackDocuments_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/IDocumentNumberRollback/RollBackDocumentseConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_RollBackDocuments_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateEntity">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/CreateEntity" message="tns:eConnect_CreateEntity_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/CreateEntityResponse" message="tns:eConnect_CreateEntity_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/CreateEntityeConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_CreateEntity_eConnectFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/CreateEntityeConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_CreateEntity_eConnectSqlFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateTransactionEntity">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/CreateTransactionEntity" message="tns:eConnect_CreateTransactionEntity_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/CreateTransactionEntityResponse" message="tns:eConnect_CreateTransactionEntity_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/CreateTransactionEntityeConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_CreateTransactionEntity_eConnectFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/CreateTransactionEntityeConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_CreateTransactionEntity_eConnectSqlFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateEntity">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/UpdateEntity" message="tns:eConnect_UpdateEntity_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/UpdateEntityResponse" message="tns:eConnect_UpdateEntity_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/UpdateEntityeConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_UpdateEntity_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/UpdateEntityeConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_UpdateEntity_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteEntity">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/DeleteEntity" message="tns:eConnect_DeleteEntity_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/DeleteEntityResponse" message="tns:eConnect_DeleteEntity_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/DeleteEntityeConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_DeleteEntity_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/DeleteEntityeConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_DeleteEntity_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateTransactionEntity">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/UpdateTransactionEntity" message="tns:eConnect_UpdateTransactionEntity_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/UpdateTransactionEntityResponse" message="tns:eConnect_UpdateTransactionEntity_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/UpdateTransactionEntityeConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_UpdateTransactionEntity_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/UpdateTransactionEntityeConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_UpdateTransactionEntity_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteTransactionEntity">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/DeleteTransactionEntity" message="tns:eConnect_DeleteTransactionEntity_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/DeleteTransactionEntityResponse" message="tns:eConnect_DeleteTransactionEntity_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/DeleteTransactionEntityeConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_DeleteTransactionEntity_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/DeleteTransactionEntityeConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_DeleteTransactionEntity_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEntity">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/GetEntity" message="tns:eConnect_GetEntity_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/GetEntityResponse" message="tns:eConnect_GetEntity_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/GetEntityeConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_GetEntity_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/GetEntityeConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_GetEntity_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Dispose">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/Dispose" message="tns:eConnect_Dispose_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/DisposeResponse" message="tns:eConnect_Dispose_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/DisposeeConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:eConnect_Dispose_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/eConnect/DisposeeConnectFaultFault" name="eConnectFaultFault" message="tns:eConnect_Dispose_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="ITransactionRecordIds">
+    <wsdl:operation name="GetNextPOPReceiptNumber">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPOPReceiptNumber" message="tns:eConnect_GetNextPOPReceiptNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPOPReceiptNumberResponse" message="tns:eConnect_GetNextPOPReceiptNumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPOPReceiptNumbereConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:ITransactionRecordIds_GetNextPOPReceiptNumber_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPOPReceiptNumbereConnectFaultFault" name="eConnectFaultFault" message="tns:ITransactionRecordIds_GetNextPOPReceiptNumber_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNextGLJournalEntryNumber">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextGLJournalEntryNumber" message="tns:eConnect_GetNextGLJournalEntryNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextGLJournalEntryNumberResponse" message="tns:eConnect_GetNextGLJournalEntryNumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextGLJournalEntryNumbereConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:ITransactionRecordIds_GetNextGLJournalEntryNumber_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextGLJournalEntryNumbereConnectFaultFault" name="eConnectFaultFault" message="tns:ITransactionRecordIds_GetNextGLJournalEntryNumber_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNextPONumber">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPONumber" message="tns:eConnect_GetNextPONumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPONumberResponse" message="tns:eConnect_GetNextPONumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPONumbereConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:ITransactionRecordIds_GetNextPONumber_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextPONumbereConnectFaultFault" name="eConnectFaultFault" message="tns:ITransactionRecordIds_GetNextPONumber_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNextRMNumber">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextRMNumber" message="tns:eConnect_GetNextRMNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextRMNumberResponse" message="tns:eConnect_GetNextRMNumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextRMNumbereConnectFaultFault" name="eConnectFaultFault" message="tns:ITransactionRecordIds_GetNextRMNumber_eConnectFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextRMNumbereConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:ITransactionRecordIds_GetNextRMNumber_eConnectSqlFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPMNextVoucherNumber">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetPMNextVoucherNumber" message="tns:eConnect_GetPMNextVoucherNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetPMNextVoucherNumberResponse" message="tns:eConnect_GetPMNextVoucherNumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetPMNextVoucherNumbereConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:ITransactionRecordIds_GetPMNextVoucherNumber_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetPMNextVoucherNumbereConnectFaultFault" name="eConnectFaultFault" message="tns:ITransactionRecordIds_GetPMNextVoucherNumber_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNextIVNumber">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextIVNumber" message="tns:eConnect_GetNextIVNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextIVNumberResponse" message="tns:eConnect_GetNextIVNumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextIVNumbereConnectFaultFault" name="eConnectFaultFault" message="tns:ITransactionRecordIds_GetNextIVNumber_eConnectFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextIVNumbereConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:ITransactionRecordIds_GetNextIVNumber_eConnectSqlFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNextSOPNumber">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextSOPNumber" message="tns:eConnect_GetNextSOPNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextSOPNumberResponse" message="tns:eConnect_GetNextSOPNumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextSOPNumbereConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:ITransactionRecordIds_GetNextSOPNumber_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/ITransactionRecordIds/GetNextSOPNumbereConnectFaultFault" name="eConnectFaultFault" message="tns:ITransactionRecordIds_GetNextSOPNumber_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="IDocumentNumberRollback">
+    <wsdl:operation name="RollBackDocuments">
+      <wsdl:input wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/IDocumentNumberRollback/RollBackDocuments" message="tns:eConnect_RollBackDocuments_InputMessage" />
+      <wsdl:output wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/IDocumentNumberRollback/RollBackDocumentsResponse" message="tns:eConnect_RollBackDocuments_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/IDocumentNumberRollback/RollBackDocumentseConnectSqlFaultFault" name="eConnectSqlFaultFault" message="tns:IDocumentNumberRollback_RollBackDocuments_eConnectSqlFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://schemas.microsoft.com/dynamics/gp/2010/01/IDocumentNumberRollback/RollBackDocumentseConnectFaultFault" name="eConnectFaultFault" message="tns:IDocumentNumberRollback_RollBackDocuments_eConnectFaultFault_FaultMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:service name="eConnect">
+    <wsdl:port name="eConnectServiceEndpoint" binding="i0:eConnectServiceEndpoint">
+      <soap12:address location="net.pipe://localhost/Microsoft/Dynamics/GP/eConnect/EntityOperations" />
+      <wsa10:EndpointReference>
+        <wsa10:Address>net.pipe://localhost/Microsoft/Dynamics/GP/eConnect/EntityOperations</wsa10:Address>
+        <Identity xmlns="http://schemas.xmlsoap.org/ws/2006/02/addressingidentity">
+          <Dns>localhost</Dns>
+        </Identity>
+      </wsa10:EndpointReference>
+    </wsdl:port>
+    <wsdl:port name="eConnectDocNumberEndPoint" binding="i0:eConnectDocNumberEndPoint">
+      <soap12:address location="net.pipe://localhost/Microsoft/Dynamics/GP/eConnect/GetDocumentNumbers" />
+      <wsa10:EndpointReference>
+        <wsa10:Address>net.pipe://localhost/Microsoft/Dynamics/GP/eConnect/GetDocumentNumbers</wsa10:Address>
+        <Identity xmlns="http://schemas.xmlsoap.org/ws/2006/02/addressingidentity">
+          <Dns>localhost</Dns>
+        </Identity>
+      </wsa10:EndpointReference>
+    </wsdl:port>
+    <wsdl:port name="eConnectRollBackDocuments" binding="i0:eConnectRollBackDocuments">
+      <soap12:address location="net.pipe://localhost/Microsoft/Dynamics/GP/eConnect/RollBackDocuments" />
+      <wsa10:EndpointReference>
+        <wsa10:Address>net.pipe://localhost/Microsoft/Dynamics/GP/eConnect/RollBackDocuments</wsa10:Address>
+        <Identity xmlns="http://schemas.xmlsoap.org/ws/2006/02/addressingidentity">
+          <Dns>localhost</Dns>
+        </Identity>
+      </wsa10:EndpointReference>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{908D07A5-53FD-4122-80F2-926C6869D23C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ChemPoint.GP.PMBL</RootNamespace>
+    <AssemblyName>ChemPoint.GP.PMBL</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Dynamics.GP.eConnect, Version=16.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\GP 2016 Upgraded Dll\Microsoft.Dynamics.GP.eConnect.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PMBusiness.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChemPoint.GP.BusinessContracts\ChemPoint.GP.BusinessContracts.csproj">
+      <Project>{2796A571-5FBF-4334-BD94-30487208440E}</Project>
+      <Name>ChemPoint.GP.BusinessContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ChemPoint.GP.DataContracts\ChemPoint.GP.DataContracts.csproj">
+      <Project>{69D1D1AC-6A78-4635-AB33-A9D92C51BFE6}</Project>
+      <Name>ChemPoint.GP.DataContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ChemPoint.GP.Email\ChemPoint.GP.Email.csproj">
+      <Project>{7C512DE2-AB28-4D56-B904-CA6D4BF75FF0}</Project>
+      <Name>ChemPoint.GP.Email</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ChemPoint.GP.Entities\ChemPoint.GP.Entities.csproj">
+      <Project>{4CDD1441-BF38-44B6-B889-46746B9DFF26}</Project>
+      <Name>ChemPoint.GP.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Chempoint.GP.FtpBL\Chempoint.GP.FtpBL.csproj">
+      <Project>{A6B20952-D6D7-4E00-9BA7-FC0EFC64A26C}</Project>
+      <Name>Chempoint.GP.FtpBL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Chempoint.GP.Infrastructure\Chempoint.GP.Infrastructure.csproj">
+      <Project>{398ec9c4-077a-4f1a-87fc-bb3639006a78}</Project>
+      <Name>Chempoint.GP.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Chempoint.GP.Model\Chempoint.GP.Model.csproj">
+      <Project>{5C2D1212-DF15-4521-9AC0-4AE9A75AE09C}</Project>
+      <Name>Chempoint.GP.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Chempoint.GP.PMDL\ChemPoint.GP.PMDL.csproj">
+      <Project>{7c60cd6f-334c-4d91-8c83-38a2abd7abb6}</Project>
+      <Name>ChemPoint.GP.PMDL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

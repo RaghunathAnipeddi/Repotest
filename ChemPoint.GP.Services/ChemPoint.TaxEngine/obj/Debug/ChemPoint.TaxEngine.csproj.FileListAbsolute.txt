@@ -1,0 +1,20 @@
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.TaxEngine\bin\Debug\ChemPoint.TaxEngine.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.TaxEngine\bin\Debug\ChemPoint.TaxEngine.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.TaxEngine\obj\Debug\ChemPoint.TaxEngine.csprojResolveAssemblyReference.cache
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.TaxEngine\obj\Debug\ChemPoint.TaxEngine.TaxEngine.resources
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.TaxEngine\obj\Debug\ChemPoint.TaxEngine.csproj.GenerateResource.Cache
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.TaxEngine\obj\Debug\ChemPoint.TaxEngine.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.TaxEngine\obj\Debug\ChemPoint.TaxEngine.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.TaxEngine\bin\Debug\ChemPoint.TaxEngine.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.TaxEngine\bin\Debug\ChemPoint.TaxEngine.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.TaxEngine\obj\Debug\ChemPoint.TaxEngine.TaxEngine.resources
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.TaxEngine\obj\Debug\ChemPoint.TaxEngine.csproj.GenerateResource.Cache
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.TaxEngine\obj\Debug\ChemPoint.TaxEngine.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.TaxEngine\obj\Debug\ChemPoint.TaxEngine.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.TaxEngine\bin\Debug\ChemPoint.TaxEngine.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.TaxEngine\bin\Debug\ChemPoint.TaxEngine.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.TaxEngine\obj\Debug\ChemPoint.TaxEngine.csprojResolveAssemblyReference.cache
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.TaxEngine\obj\Debug\ChemPoint.TaxEngine.TaxEngine.resources
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.TaxEngine\obj\Debug\ChemPoint.TaxEngine.csproj.GenerateResource.Cache
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.TaxEngine\obj\Debug\ChemPoint.TaxEngine.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.TaxEngine\obj\Debug\ChemPoint.TaxEngine.pdb

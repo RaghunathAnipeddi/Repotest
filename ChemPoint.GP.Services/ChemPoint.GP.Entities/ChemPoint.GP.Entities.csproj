@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4CDD1441-BF38-44B6-B889-46746B9DFF26}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ChemPoint.GP.Entities</RootNamespace>
+    <AssemblyName>ChemPoint.GP.Entities</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseEntities\AccountInformation.cs" />
+    <Compile Include="BaseEntities\AddressInformation.cs" />
+    <Compile Include="BaseEntities\Amount.cs" />
+    <Compile Include="BaseEntities\AuditInformation.cs" />
+    <Compile Include="BaseEntities\CarrierInformation.cs" />
+    <Compile Include="BaseEntities\CompanyInformation.cs" />
+    <Compile Include="BaseEntities\CreditCardInformation.cs" />
+    <Compile Include="BaseEntities\CreditProfile.cs" />
+    <Compile Include="BaseEntities\CustomerInformation.cs" />
+    <Compile Include="BaseEntities\CustomerMappingDetails.cs" />
+    <Compile Include="BaseEntities\EFTPayment.cs" />
+    <Compile Include="BaseEntities\EMailInformation.cs" />
+    <Compile Include="BaseEntities\IModelBase.cs" />
+    <Compile Include="BaseEntities\Integration.cs" />
+    <Compile Include="BaseEntities\InventoryInformation.cs" />
+    <Compile Include="BaseEntities\IncoTerm.cs" />
+    <Compile Include="BaseEntities\POActivityLog.cs" />
+    <Compile Include="BaseEntities\PurchaseCostManagement.cs" />
+    <Compile Include="BaseEntities\PurchaseShipmentEstimateDetails.cs" />
+    <Compile Include="BaseEntities\ReceivablesHeader.cs" />
+    <Compile Include="BaseEntities\PaymentTermsInformation.cs" />
+    <Compile Include="BaseEntities\PurchaseOrderInformation.cs" />
+    <Compile Include="BaseEntities\ReceivableDetails.cs" />
+    <Compile Include="BaseEntities\TrackingInformation.cs" />
+    <Compile Include="BaseEntities\SalesInstruction.cs" />
+    <Compile Include="BaseEntities\SalesLineItem.cs" />
+    <Compile Include="BaseEntities\LotInformation.cs" />
+    <Compile Include="BaseEntities\OrderHeader.cs" />
+    <Compile Include="BaseEntities\OrderSchedule.cs" />
+    <Compile Include="BaseEntities\SalesOrderInformation.cs" />
+    <Compile Include="BaseEntities\SalesOrderDetails.cs" />
+    <Compile Include="BaseEntities\SalesOrderType.cs" />
+    <Compile Include="BaseEntities\SetupInformation.cs" />
+    <Compile Include="BaseEntities\Status.cs" />
+    <Compile Include="BaseEntities\SupplierInfomation.cs" />
+    <Compile Include="BaseEntities\WarehouseInformation.cs" />
+    <Compile Include="Business Entities\AuditLog\AuditLogEntity.cs" />
+    <Compile Include="Business Entities\Inventory\InventoryItemDemandEntity.cs" />
+    <Compile Include="Business Entities\Inventory\InventoryResourceEntity.cs" />
+    <Compile Include="Business Entities\Purchase\PurchaseElemicaEntity.cs" />
+    <Compile Include="Business Entities\Purchase\PurchaseIndicatorEntity.cs" />
+    <Compile Include="Business Entities\Purchase\PurchaseIndicatorStatusEntity.cs" />
+    <Compile Include="Business Entities\Purchase\PurchaseOrderEntity.cs" />
+    <Compile Include="Business Entities\Sales\BulkOrderTransferEntity.cs" />
+    <Compile Include="Business Entities\Sales\InvoiceLinkedPaymentEntity.cs" />
+    <Compile Include="Business Entities\Sales\SalesOrderEntity.cs" />
+    <Compile Include="Business Entities\Sales\SalesOrderPostEntity.cs" />
+    <Compile Include="Business Entities\Setup\SetupEntity.cs" />
+    <Compile Include="Business Entities\TaskScheduler\APOut\PayableDetailsEntity.cs" />
+    <Compile Include="Business Entities\TaskScheduler\APOut\PayableLineEntity.cs" />
+    <Compile Include="Business Entities\TaskScheduler\APOut\PayableLookupDetailEntity.cs" />
+    <Compile Include="Business Entities\TaskScheduler\APOut\PayableLookupLineEntity.cs" />
+    <Compile Include="Business Entities\TaskScheduler\APOut\PayableManagementEntity.cs" />
+    <Compile Include="Business Entities\TaskScheduler\FTP\FtpEntity.cs" />
+    <Compile Include="Business Entities\TaskScheduler\HoldEngine\HoldEngineEntity.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

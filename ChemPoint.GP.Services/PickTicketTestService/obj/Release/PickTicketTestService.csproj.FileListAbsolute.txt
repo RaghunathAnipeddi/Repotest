@@ -1,0 +1,6 @@
+D:\Amit\GP2015\Deployment Files\GPTaskShare\2016\03 Mar\SBA\ChemPoint.GP.Services\PickTicketTestService\bin\PickTicketTestService.dll.config
+D:\Amit\GP2015\Deployment Files\GPTaskShare\2016\03 Mar\SBA\ChemPoint.GP.Services\PickTicketTestService\bin\PickTicketTestService.dll
+D:\Amit\GP2015\Deployment Files\GPTaskShare\2016\03 Mar\SBA\ChemPoint.GP.Services\PickTicketTestService\bin\PickTicketTestService.pdb
+D:\Amit\GP2015\Deployment Files\GPTaskShare\2016\03 Mar\SBA\ChemPoint.GP.Services\PickTicketTestService\obj\Release\PickTicketTestService.csprojResolveAssemblyReference.cache
+D:\Amit\GP2015\Deployment Files\GPTaskShare\2016\03 Mar\SBA\ChemPoint.GP.Services\PickTicketTestService\obj\Release\PickTicketTestService.dll
+D:\Amit\GP2015\Deployment Files\GPTaskShare\2016\03 Mar\SBA\ChemPoint.GP.Services\PickTicketTestService\obj\Release\PickTicketTestService.pdb

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5C2D1212-DF15-4521-9AC0-4AE9A75AE09C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Chempoint.GP.Model</RootNamespace>
+    <AssemblyName>Chempoint.GP.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Common">
+      <HintPath>..\..\..\..\..\..\..\..\..\Common EnterPriseLibrary\Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Interactions\Account\AccountRequest.cs" />
+    <Compile Include="Interactions\Account\AccountResponse.cs" />
+    <Compile Include="Interactions\Account\ReceivablesRequest.cs" />
+    <Compile Include="Interactions\Account\ReceivablesResponse.cs" />
+    <Compile Include="Interactions\AuditLog\XRMAuditLogRequest.cs" />
+    <Compile Include="Interactions\AuditLog\XRMAuditLogResponse.cs" />
+    <Compile Include="Interactions\Cryptography\CryptoRequest.cs" />
+    <Compile Include="Interactions\Cryptography\CryptoResponse.cs" />
+    <Compile Include="Interactions\Email\SendEmailRequest.cs" />
+    <Compile Include="Interactions\Email\SendEmailResponse.cs" />
+    <Compile Include="Interactions\FTP\FTPRequest.cs" />
+    <Compile Include="Interactions\FTP\FTPResponse.cs" />
+    <Compile Include="Interactions\HoldEngine\HoldEngineRequest.cs" />
+    <Compile Include="Interactions\HoldEngine\HoldEngineResponse.cs" />
+    <Compile Include="Interactions\Inventory\InventoryResourceRequest.cs" />
+    <Compile Include="Interactions\Inventory\InventoryResourceResponse.cs" />
+    <Compile Include="Interactions\PayableManagement\PayableManagementRequest.cs" />
+    <Compile Include="Interactions\PayableManagement\PayableManagementResponse.cs" />
+    <Compile Include="Interactions\Purchases\PurchaseElemicaRequest.cs" />
+    <Compile Include="Interactions\Purchases\PurchaseElemicaResponse.cs" />
+    <Compile Include="Interactions\Purchases\PurchaseIndicatorRequest.cs" />
+    <Compile Include="Interactions\Purchases\PurchaseIndicatorResponse.cs" />
+    <Compile Include="Interactions\Purchases\PurchaseOrderRequest.cs" />
+    <Compile Include="Interactions\Purchases\PurchaseOrderResponse.cs" />
+    <Compile Include="Interactions\Sales\BulkOrderTransferRequest.cs" />
+    <Compile Include="Interactions\Sales\OrderBatchPostRequest.cs" />
+    <Compile Include="Interactions\Sales\OrderBatchPostResponse.cs" />
+    <Compile Include="Interactions\Sales\PickTicketRequest.cs" />
+    <Compile Include="Interactions\Sales\PickTicketResponse.cs" />
+    <Compile Include="Interactions\Sales\SalesOrderRequest.cs" />
+    <Compile Include="Interactions\Sales\SalesOrderResponse.cs" />
+    <Compile Include="Interactions\Sales\User.cs" />
+    <Compile Include="Interactions\Setup\SetupRequest.cs" />
+    <Compile Include="Interactions\Setup\SetupResponse.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChemPoint.GP.Entities\ChemPoint.GP.Entities.csproj">
+      <Project>{4cdd1441-bf38-44b6-b889-46746b9dff26}</Project>
+      <Name>ChemPoint.GP.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

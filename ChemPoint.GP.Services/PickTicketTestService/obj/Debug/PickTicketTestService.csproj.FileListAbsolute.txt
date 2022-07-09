@@ -1,0 +1,18 @@
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\PickTicketTestService\bin\PickTicketTestService.dll.config
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\PickTicketTestService\bin\PickTicketTestService.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\PickTicketTestService\bin\PickTicketTestService.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\PickTicketTestService\obj\Debug\PickTicketTestService.csprojResolveAssemblyReference.cache
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\PickTicketTestService\obj\Debug\PickTicketTestService.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\PickTicketTestService\obj\Debug\PickTicketTestService.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\PickTicketTestService\bin\PickTicketTestService.dll.config
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\PickTicketTestService\bin\PickTicketTestService.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\PickTicketTestService\bin\PickTicketTestService.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\PickTicketTestService\obj\Debug\PickTicketTestService.csprojResolveAssemblyReference.cache
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\PickTicketTestService\obj\Debug\PickTicketTestService.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\PickTicketTestService\obj\Debug\PickTicketTestService.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\PickTicketTestService\bin\PickTicketTestService.dll.config
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\PickTicketTestService\bin\PickTicketTestService.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\PickTicketTestService\bin\PickTicketTestService.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\PickTicketTestService\obj\Debug\PickTicketTestService.csprojResolveAssemblyReference.cache
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\PickTicketTestService\obj\Debug\PickTicketTestService.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\PickTicketTestService\obj\Debug\PickTicketTestService.pdb

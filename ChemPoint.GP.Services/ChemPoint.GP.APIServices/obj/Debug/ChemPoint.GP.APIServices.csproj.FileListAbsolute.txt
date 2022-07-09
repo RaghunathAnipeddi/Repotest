@@ -1,0 +1,425 @@
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.APIServices.dll.config
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.APIServices.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.APIServices.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Antlr3.Runtime.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.AccountBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.BusinessContracts.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.DataContracts.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.Email.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.Entities.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.FtpBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.HoldEngineBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.Infrastructure.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.InventoryBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.Model.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.OrderPostingBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.PickTicketBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.POBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.ReceivablesBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderCreateBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SetupBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Common.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\EntityFramework.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\EntityFramework.SqlServer.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Google.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Web.Infrastructure.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Newtonsoft.Json.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Owin.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Net.Http.Formatting.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Helpers.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.Owin.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.WebHost.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Mvc.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Optimization.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Razor.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.Deployment.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.Razor.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\WebGrease.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Dynamics.GP.eConnect.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.AccountDL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.EmailDL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ICSharpCode.SharpZipLib.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.FtpDL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.CryptoBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.HoldEngineDL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.InventoryDL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.OrderPostingDL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.IWarehouseIntegrator.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderDL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.XRMServices.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.Utilities.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.CHR.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.DHL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.GA.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.GL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.Jacobson.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.NA.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.SouthernBonded.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.PODL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ReceivablesDL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.TaxEngine.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.Gp.CPServiceAuditLogBL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SetupDetailDL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.CryptoDL.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.Config.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.Freight.Http.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.CPServiceAuditLog.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.AccountBL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.BusinessContracts.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.DataContracts.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.Email.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.Entities.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.FtpBL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.HoldEngineBL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.Infrastructure.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.InventoryBL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.Model.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.OrderPostingBL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.PickTicketBL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.POBL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.ReceivablesBL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderBL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderCreateBL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SetupBL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Newtonsoft.Json.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Net.Http.Formatting.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Helpers.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.WebHost.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Mvc.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Optimization.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Razor.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.Deployment.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.Razor.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Antlr3.Runtime.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\EntityFramework.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\EntityFramework.SqlServer.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Google.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.Owin.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.AccountDL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.EmailDL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.FtpDL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.CryptoBL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.HoldEngineDL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.InventoryDL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.OrderPostingDL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderDL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.XRMServices.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.PODL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ReceivablesDL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.TaxEngine.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.Gp.CPServiceAuditLogBL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SetupDetailDL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.CryptoDL.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.CPServiceAuditLog.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\obj\Debug\ChemPoint.GP.APIServices.csprojResolveAssemblyReference.cache
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\obj\Debug\ChemPoint.GP.APIServices.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\ChemPoint.GP.APIServices\obj\Debug\ChemPoint.GP.APIServices.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.APIServices.dll.config
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.APIServices.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.APIServices.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Antlr3.Runtime.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.AccountBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.BusinessContracts.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.DataContracts.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.Email.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.Entities.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.FtpBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.HoldEngineBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.Infrastructure.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.InventoryBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.Model.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.OrderPostingBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.PickTicketBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.POBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.ReceivablesBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderCreateBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SetupBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\EntityFramework.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\EntityFramework.SqlServer.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Google.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Web.Infrastructure.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Newtonsoft.Json.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Owin.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Net.Http.Formatting.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Helpers.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.Owin.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.WebHost.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Mvc.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Optimization.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Razor.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.Deployment.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.Razor.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\WebGrease.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Dynamics.GP.eConnect.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.AccountDL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.EmailDL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ICSharpCode.SharpZipLib.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.FtpDL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.CryptoBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.HoldEngineDL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.InventoryDL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.OrderPostingDL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.IWarehouseIntegrator.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderDL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.XRMServices.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.Utilities.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.CHR.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.DHL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.GA.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.GL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.Jacobson.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.NA.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.SouthernBonded.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.PODL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.TaxEngine.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.Gp.CPServiceAuditLogBL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SetupDetailDL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.CryptoDL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.Config.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.Freight.Http.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.CPServiceAuditLog.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.AccountBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.BusinessContracts.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.DataContracts.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.Email.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.Entities.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.FtpBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.HoldEngineBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.Infrastructure.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.InventoryBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.Model.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.OrderPostingBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.PickTicketBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.POBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.ReceivablesBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderCreateBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SetupBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Newtonsoft.Json.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Net.Http.Formatting.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Helpers.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.WebHost.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Mvc.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Optimization.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Razor.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.Deployment.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.Razor.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Antlr3.Runtime.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\EntityFramework.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\EntityFramework.SqlServer.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Google.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.Owin.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.AccountDL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.EmailDL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.FtpDL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.CryptoBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.HoldEngineDL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.InventoryDL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.OrderPostingDL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderDL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.XRMServices.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.PODL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.TaxEngine.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.Gp.CPServiceAuditLogBL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SetupDetailDL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.CryptoDL.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.CPServiceAuditLog.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\obj\Debug\ChemPoint.GP.APIServices.csprojResolveAssemblyReference.cache
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\obj\Debug\ChemPoint.GP.APIServices.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\obj\Debug\ChemPoint.GP.APIServices.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.ReceivablesDL.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.ReceivablesDL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.APIServices.dll.config
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.APIServices.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.APIServices.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Antlr3.Runtime.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.AccountBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.BusinessContracts.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.DataContracts.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.Email.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.Entities.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.FtpBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.HoldEngineBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.Infrastructure.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.InventoryBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.Model.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.OrderPostingBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.PickTicketBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.POBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.ReceivablesBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderCreateBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SetupBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\EntityFramework.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\EntityFramework.SqlServer.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Google.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Web.Infrastructure.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Newtonsoft.Json.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Owin.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Net.Http.Formatting.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Helpers.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.Owin.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.WebHost.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Mvc.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Optimization.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Razor.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.Deployment.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.Razor.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\WebGrease.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Dynamics.GP.eConnect.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.AccountDL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.EmailDL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ICSharpCode.SharpZipLib.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.FtpDL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.CryptoBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.HoldEngineDL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.InventoryDL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.OrderPostingDL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.IWarehouseIntegrator.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderDL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.XRMServices.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.Utilities.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.CHR.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.DHL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.GA.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.GL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.Jacobson.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.NA.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.SouthernBonded.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.PODL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.ReceivablesDL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.TaxEngine.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.Gp.CPServiceAuditLogBL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SetupDetailDL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.CryptoDL.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.B2B.Config.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.Freight.Http.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.CPServiceAuditLog.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.AccountBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.BusinessContracts.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.DataContracts.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.Email.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.Entities.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.FtpBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.HoldEngineBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.Infrastructure.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.InventoryBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.Model.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.OrderPostingBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.PickTicketBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.POBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.ReceivablesBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderCreateBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SetupBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Newtonsoft.Json.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Net.Http.Formatting.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Helpers.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.WebHost.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Mvc.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Optimization.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Razor.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.Deployment.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.WebPages.Razor.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Antlr3.Runtime.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\EntityFramework.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\EntityFramework.SqlServer.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Google.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\System.Web.Http.Owin.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.AccountDL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.EmailDL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.FtpDL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.CryptoBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.HoldEngineDL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.InventoryDL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.OrderPostingDL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SalesOrderDL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.XRMServices.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.PODL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.ReceivablesDL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.TaxEngine.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.Gp.CPServiceAuditLogBL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.SetupDetailDL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\Chempoint.GP.CryptoDL.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\bin\ChemPoint.GP.CPServiceAuditLog.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\obj\Debug\ChemPoint.GP.APIServices.csprojResolveAssemblyReference.cache
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\obj\Debug\ChemPoint.GP.APIServices.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\ChemPoint.GP.APIServices\obj\Debug\ChemPoint.GP.APIServices.pdb

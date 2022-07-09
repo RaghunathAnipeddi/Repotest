@@ -1,0 +1,48 @@
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Chempoint.FTPutility.exe.config
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Chempoint.FTPutility.exe
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Chempoint.FTPutility.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\ChemPoint.GP.Entities.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Chempoint.GP.Model.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Newtonsoft.Json.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\System.Net.Http.Formatting.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\System.Web.Http.WebHost.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Common.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\System.Web.Http.dll
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\ChemPoint.GP.Entities.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Chempoint.GP.Model.pdb
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\System.Net.Http.Formatting.xml
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\obj\Debug\Chempoint.FTPutility.csprojResolveAssemblyReference.cache
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\obj\Debug\Chempoint.FTPutility.exe
+D:\Nagarajan\TFS\ERP Agile\Sprint 2\ChemPoint.GP.Services\Chempoint.FTPutility\obj\Debug\Chempoint.FTPutility.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Chempoint.FTPutility.exe.config
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Chempoint.FTPutility.exe
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Chempoint.FTPutility.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\ChemPoint.GP.Entities.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Chempoint.GP.Model.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Newtonsoft.Json.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\System.Net.Http.Formatting.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\System.Web.Http.WebHost.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Common.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\System.Web.Http.dll
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\ChemPoint.GP.Entities.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Chempoint.GP.Model.pdb
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\System.Net.Http.Formatting.xml
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\obj\Debug\Chempoint.FTPutility.csprojResolveAssemblyReference.cache
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\obj\Debug\Chempoint.FTPutility.exe
+D:\Nagarajan\ERP Innovation\Sprint 2017.4\Code\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\obj\Debug\Chempoint.FTPutility.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Chempoint.FTPutility.exe.config
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Chempoint.FTPutility.exe
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Chempoint.FTPutility.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\ChemPoint.GP.Entities.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Chempoint.GP.Model.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Newtonsoft.Json.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\System.Net.Http.Formatting.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\System.Web.Http.WebHost.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Common.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\System.Web.Http.dll
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\ChemPoint.GP.Entities.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\Chempoint.GP.Model.pdb
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\bin\Debug\System.Net.Http.Formatting.xml
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\obj\Debug\Chempoint.FTPutility.csprojResolveAssemblyReference.cache
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\obj\Debug\Chempoint.FTPutility.exe
+D:\MT\SQL 2016 and GP 2016 Upgrade\Code\Apps\GP\Apps\ChemPoint.GP.Services\Chempoint.FTPutility\obj\Debug\Chempoint.FTPutility.pdb
